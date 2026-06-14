@@ -1,6 +1,6 @@
 Grupo de investigacion en Biologia Computacional Escuela de Microbiologia UdeA
 
-¡Bienvenido/a! Somos un grupo de investigación enfocado en genomica evolutica, metagenomica ambiental y dinámicas de infección hospedero-patógeno, parte de la Escuela de Microbiologia de la Universidad de Antioquia.
+¡Bienvenido/a! Somos un grupo de investigación enfocado en genomica evolutiva, metagenomica ambiental y dinámicas de infección hospedero-patógeno, parte de la Escuela de Microbiologia de la Universidad de Antioquia.
 
 
 Líneas de investigación
